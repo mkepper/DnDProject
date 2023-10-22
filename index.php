@@ -10,7 +10,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-    <?php include "swapSubclass.php" ?>
     <div class="container">
         <h1 class="text-center">Welcome</h1>
     </div>
